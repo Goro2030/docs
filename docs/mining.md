@@ -1,10 +1,10 @@
 # Como minar Chauchas
 
-IMPORTANTE: MUCHOS ANTIVIRUS DETECTAN ESTAS APLICACIONES COMO VIRUS, NO LO SON! DEBES CREAR ALGUNA REGLA EN TU ANTIVIRUS PARA QUE NO LOS BORRE O BLOQUEE.
+IMPORTANTE: MUCHOS ANTIVIRUS DETECTAN ESTAS APLICACIONES DE MINADO COMO VIRUS, NO LO SON! DEBES CREAR ALGUNA REGLA EN TU ANTIVIRUS PARA QUE NO LOS BORRE O BLOQUEE.
 
 ## Instalacion de la billetera ( Wallet ) :
 
-Entrar a www.chaucha.cl y descargar el software https://www.chaucha.cl/ (ir a "descargas) y seleccionar la version que necesites, en este caso usaremos windows (https://github.com/proyecto-chaucha/chauchera/releases/download/1.0/chaucha-qt_1.0.0-win.zip ) . 
+Entrar a www.chaucha.cl y descargar el software https://www.chaucha.cl/ (ir a "descargas) y seleccionar la version que necesites, en este caso usaremos windows (https://github.com/proyecto-chaucha/chauchera/releases/download/1.0/chaucha-qt_1.0.0-win.zip ) .
 
 Al descargar la aplicacion, y abrirla, esta comenzara a descargar toda la cadena de transacciones que hay hasta ese momento, (demora un rato). Mientras descargas, puedes ir al menu y ver la opcion "recibir" ahi veras un codigo (en la seccion direccion) que es tu billetera virtual o wallet, con ese codigo podras minar chauchas, es basicamente una direccion a donde iran tus chauchas minadas.
 
@@ -19,13 +19,13 @@ Si deseas minar Chauchas puedes conectarte a la Mining Pool oficial del proyecto
 
 ## Instalación y uso del software de minado
 
-Luego de tener ese numero debemos descargar el cliente para minar. 
+Luego de tener ese numero debemos descargar el cliente para minar.
 
 Recomendamos los siguientes 2 miners:
 
-A) GPU ( Placa de Video ) : **ccminer** . Puedes descargar la ultima version desde https://github.com/tpruvot/ccminer/releases 
+A) GPU ( Placa de Video ) : **ccminer** . Puedes descargar la ultima version desde https://github.com/tpruvot/ccminer/releases
 
-B) CPU : **minerd** . https://sourceforge.net/projects/cpuminer/files/ 
+B) CPU : **minerd** . https://sourceforge.net/projects/cpuminer/files/
 
 Una vez que descargues el minero , necesitas descomprimirlo en una carpeta, por ejemplo C:\chauchamineria\
 
